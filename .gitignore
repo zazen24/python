@@ -2,3 +2,13 @@
 /.venv
 /*/.venv
 #########
+.ipynb_checkpoints
+/.idea
+/api
+__*.json
+__*.json~
+/.vscode
+/__blobstorage__
+/__pycache__
+/__queuestorage__
+/.ipynb_checkpoints
